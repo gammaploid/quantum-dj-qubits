@@ -2,7 +2,7 @@
 
 Manual and Qiskit implementation of deutsch-jozsa algorithm:
 
-1. matrix-based implementation:
+1. manual vector-based implementation:
 - numpy matrix operations
 - quantum gates (hadamard, cnot)
 - manual state vector manipulation
